@@ -1,0 +1,22 @@
+// First command 
+--- npx create-next-app@latest
+--- npm run dev
+--- Clear index.js html
+--- Install Tailwind.js from https://tailwindcss.com/docs/guides/nextjs
+--- Configure Tailwind --- install npx tailwindcss init -p
+--- Add purge and import from website
+--- now  install tailwind with style component --- npm i -D tailwind-styled-components
+--- import TW import tw from "tailwind-styled-components"
+--- Renaming all the div's with js const 
+--- Add css directly through the js file
+--- Go to mapBox-> ---- npm command and imort "mapbox-gl/dist/mapbox-gl.css";
+--- in nxt js to start we need to import useEffect -- import {userEffect} from 'react'
+--- Create useEffect to create a function --> use effect loads everything when you start the webpage
+--- After adding the mapp  to web app we created the new component folder .
+--- New map file where we coppoied the index.js files that we used to create map to create a better component.
+--- export default map
+--- In place of <map> we will import map from map.js
+--- Image uploads at https://i.ibb.co
+--- After creating the page create second page 
+--- Link both the pages by -- import Link from 'next/link'
+-----------------------Items-center fixes the streched  image
